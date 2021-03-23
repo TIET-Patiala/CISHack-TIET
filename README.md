@@ -3,7 +3,7 @@
 
 ![Alt text](https://pbs.twimg.com/media/DLhGc5wUEAAAXMm.jpg "FacePass")
 
-We developed a Ask.fm / Sarahah clone but with facial recognition capabilities which mean you can simply point your camera at your friends’ face, scan and read/write comments anonymously on their public wall. Of course this will run on any device and not just iPhone X because the recognition is powered by the OpenCV library. For developers we’re open-sourcing the backend and the app itself so you could integrate this with your apps and help us improve our service as well. More info on our website and my Twitter handle 
+We developed a Ask.fm / Sarahah clone but with facial recognition capabilities which mean you can simply point your camera at your friends’ face, scan and read/write comments anonymously on their public wall. Of course this will run on any device and not just iPhone X because the recognition is powered by the OpenCV library. For developers we’re open-sourcing the backend and the app itself so you could integrate this with your apps and help us improve our service as well. 
 
 [click me to see a demo video](https://drive.google.com/open?id=0B1InhyZ75GkVV2hYYkVjYXpIdDQ)
 
