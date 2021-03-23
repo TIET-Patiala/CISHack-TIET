@@ -1,0 +1,25 @@
+Project :- Centralized Health System
+
+Problem :- 
+People have to carry all their medical reports while going from one hospital to another or going for an appointment with a new doctor. This way, they either end up losing some documents or they forgot to carry all the documents for the appointment. 
+Furthermore, many people don't know about the government schemes currently going on for them and they end up meeting the deadline. Hence, their loss
+Seeing the ongoing pandemic, many people try to avoid physical appointments with doctors. Hence, many people are getting careless about their health.
+
+Description :- 
+A Centralized Portal For all in one access to health & wellness system including schemes ,one stop platform for all schemes from government related to health. Also a blend of a unique HealtId based authorization System to get at par the phishing techniques. A one stop website satisfying all your needs ranging from nearest medical facility to getting lab reports & pharmacy including an emergency ambulance tracking system.
+Features:-
+- All Medical Queries Answered Under One Roof.
+- No Need To Carry Your Medical Reports & Documents.
+- A Single HealthId Has All Your Medical History.
+- Get All Schemes According To Your Eligibility Criteria under Your Profile.
+- Get All Information Regarding  Available Beds Beforehand.
+- All Your Nearest Laboratories Location Available In the Portal. 
+- All Government , Private , Semi-Government hospital Info Together Inside Our Portal.
+- All eligible schemes under your profile, no need to search for it everywhere.
+
+Tech Stack :- 
+- Reactjs
+- Mongo
+- NodeJs
+- Heroku/Netlify/AWS
+- PWA/Flutter
