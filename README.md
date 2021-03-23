@@ -1,4 +1,4 @@
-> :warning: **THIS PROJECT IS NO LONGER MAITAINED**
+
 # Project FacePass
 
 ![Alt text](https://pbs.twimg.com/media/DLhGc5wUEAAAXMm.jpg "FacePass")
